@@ -1,2 +1,2 @@
-# i_am_rich_flutter
+# IAmRichApp
 A clone of the I Am Rich app made in Flutter.
